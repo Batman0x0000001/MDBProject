@@ -15,7 +15,5 @@ header,
 #item ul{list-style:none;}
 #item li{float:left;width:100px;background:rgb(84, 181, 226);margin-left:3px;line-height:30px;text-align:center}
 body{
-    background-color: rgb(85, 86, 90);
-
-}
-#vido{ width:602px; height:402px; border:1px dotted #00ff66; margin:0 auto;}
+    background-color: rgb(34,34,34);
+  }
